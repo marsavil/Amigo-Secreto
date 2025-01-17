@@ -8,6 +8,7 @@ Este proyecto es una aplicación web sencilla que permite gestionar una lista de
 
 - **Agregar nombres:** Permite a los usuarios añadir nombres a una lista dinámica.
 - **Validación de duplicados:** Evita que se ingresen nombres repetidos en la lista.
+- **No permite el ingreso de nombres vacios.
 - **Interfaz actualizable:** La lista se actualiza automáticamente en la página web.
 - **Diseño accesible:** Compatible con navegadores modernos y dispositivos móviles.
 

@@ -16,7 +16,8 @@ Este proyecto es una aplicación web sencilla que permite gestionar una lista de
 
 ## Captura de Pantalla 🖼️
 
-*(Puedes añadir aquí una imagen o GIF mostrando la aplicación en funcionamiento. Si no tienes una, puedes eliminar esta sección.)*
+![Captura de pantalla 2025-01-18 085101](https://github.com/user-attachments/assets/f721c5e1-a978-431e-9072-c956f35ddb54)
+
 
 ---
 

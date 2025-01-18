@@ -19,6 +19,10 @@ Este proyecto es una aplicación web sencilla que permite gestionar una lista de
 ![Captura de pantalla 2025-01-18 085101](https://github.com/user-attachments/assets/f721c5e1-a978-431e-9072-c956f35ddb54)
 
 
+https://github.com/user-attachments/assets/cb2e63f2-53c9-45b7-a046-1bcbdae768ba
+
+
+
 ---
 
 ## Estructura del Proyecto 📁

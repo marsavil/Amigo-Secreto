@@ -11,6 +11,7 @@ Este proyecto es una aplicación web sencilla que permite gestionar una lista de
 - **No permite el ingreso de nombres vacios.
 - **Interfaz actualizable:** La lista se actualiza automáticamente en la página web.
 - **Diseño accesible:** Compatible con navegadores modernos y dispositivos móviles.
+- **Esta diseñada para realizar un único sorteo. Luego de eso se eliminan los nombres ingresados y queda lista para volver a ingresar datos.
 
 ---
 

@@ -12,7 +12,7 @@ function agregarAmigo() {
   }
   // Se verifica que el nombre ingresado no este presente en la lista
   if (listaAmigos.includes(amigo)) {
-    alert(`${amigo} ya está incluido en la lista. Prueba con un nombre distinto.`);
+    alert(`${amigo} ya está incluido en la lista. Prueba con un nombre distinto. Si tiene amigos con el mismo nombre, agregue un caracter distintivo al final.`);
   } else {
     // Se agrega el nombre ingresado a la lista
     listaAmigos.push(amigo);

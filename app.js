@@ -38,6 +38,10 @@ function sortearAmigo() {
     alert('No hay amigos en la lista. Agregue al menos un amigo.');
     return;
   }
+  if(listaAmigos.length === 1){
+    alert('Es necesario agregar al menos dos amigos para poder sortear');
+    return;
+  }
   // se sortea un amigo de la lista y se presenta el resultado
   const randomIndex = Math.floor(Math.random() * listaAmigos.length);
   const li = document.createElement('li');

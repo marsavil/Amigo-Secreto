@@ -8,15 +8,20 @@ Este proyecto es una aplicación web sencilla que permite gestionar una lista de
 
 - **Agregar nombres:** Permite a los usuarios añadir nombres a una lista dinámica.
 - **Validación de duplicados:** Evita que se ingresen nombres repetidos en la lista.
-- **No permite el ingreso de nombres vacios.
+- **No permite el ingreso de nombres vacios.**
 - **Interfaz actualizable:** La lista se actualiza automáticamente en la página web.
 - **Diseño accesible:** Compatible con navegadores modernos y dispositivos móviles.
+- **Esta diseñada para realizar un único sorteo. Luego de eso se eliminan los nombres ingresados y queda lista para volver a ingresar datos.**
 
 ---
 
 ## Captura de Pantalla 🖼️
 
 ![Captura de pantalla 2025-01-18 085101](https://github.com/user-attachments/assets/f721c5e1-a978-431e-9072-c956f35ddb54)
+
+
+https://github.com/user-attachments/assets/cb2e63f2-53c9-45b7-a046-1bcbdae768ba
+
 
 
 ---
@@ -43,7 +48,7 @@ Sigue estos pasos para comenzar a usar la aplicación:
 
 1. **Clona este repositorio** en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/marsavil/Amigo-Secreto.git
   
 2. Navega al directorio del proyecto:
 

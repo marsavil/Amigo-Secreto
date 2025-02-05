@@ -38,6 +38,7 @@ function sortearAmigo() {
     alert('No hay amigos en la lista. Agregue al menos un amigo.');
     return;
   }
+  // Se verifica que haya al menos dos amigos para poder sortear
   if(listaAmigos.length === 1){
     alert('Es necesario agregar al menos dos amigos para poder sortear');
     return;
@@ -52,7 +53,7 @@ function sortearAmigo() {
   listaAmigos  = []
   document.getElementById('listaAmigos').innerHTML = listaAmigos
   
-  // limpia los resultados y desja la app lista para voler a iniciar
+  // limpia los resultados y deja la app lista para voler a iniciar
   setTimeout(() => {
     amigoSorteado.innerHTML = '';
   }, 5000);
